@@ -116,6 +116,6 @@ src/
 ## 📧 Contact
 
 **Your Name**
-Email: [your.email@ogr.deu.edu.tr](mailto:your.email@ogr.deu.edu.tr)
+Email: [ahmedcengizyavuz@gmail.com](mailto:ahmedcengizyavuz@gmail.com)
 
 Happy touring! 🚴‍♂️
