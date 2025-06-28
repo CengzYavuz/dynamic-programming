@@ -115,7 +115,6 @@ src/
 
 ## 📧 Contact
 
-**Your Name**
+**Ahmed Cengiz**
 Email: [ahmedcengizyavuz@gmail.com](mailto:ahmedcengizyavuz@gmail.com)
 
-Happy touring! 🚴‍♂️
